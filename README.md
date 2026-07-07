@@ -14,7 +14,7 @@ FraudGuard AI is a hybrid fraud-detection platform that combines **Machine Learn
 ## 📸 System Screenshots
 
 ### 1. Real-time Transaction Analysis
-Based on the analysis the data will give us a pdf and also sends a SMS
+Based on the analysis the data will give us a pdf and also sends a SMS.
 ![Transaction Detection](Screenshots/detection.png)
 
 ### 2. Analytics Dashboard
