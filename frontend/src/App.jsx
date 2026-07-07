@@ -5,7 +5,7 @@ import {
   AreaChart, Area, RadialBarChart, RadialBar, LineChart, Line
 } from "recharts";
 
-const API = process.env.REACT_APP_API_URL || "https://fraudguard-api-0e2x.onrender.com";
+const API = process.env.REACT_APP_API_URL || "https://fraud-detection-9d6d.onrender.com";
 const C = {
   safe:"#00f5a0", fraud:"#ff3860", warn:"#ffd166", accent:"#818cf8",
   bg:"#080b14", card:"#0f172a", border:"#1f2937",
