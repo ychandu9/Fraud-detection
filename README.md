@@ -15,23 +15,23 @@ FraudGuard AI is a hybrid fraud-detection platform that combines **Machine Learn
 
 ### 1. Real-time Transaction Analysis
 Evaluate incoming transaction parameters, view explanation logs of safety indicators, and trigger alert generations.
-![Transaction Detection](ouputs:graphs/detection.png)
+![Transaction Detection](Screenshots/detection.png)
 
 ### 2. Analytics Dashboard
 Keep track of key performance indicators, fraud rate trends, and risk distributions.
-![Analytics Dashboard](ouputs:graphs/dashboard.png)
+![Analytics Dashboard](Screenshots/dashboard.png)
 
 ### 3. Advanced Insights & Heatmaps
 Visualize peak fraud times, category-wise breakdowns, and payment method vulnerabilities.
-![Advanced Analytics](ouputs:graphs/analytics.png)
+![Advanced Analytics](Screenshots/analytics.png)
 
 ### 4. Historical Logs
 Explore the database of past analyzed transactions with full breakdown of ML vs. Rule-based scores.
-![Transaction History](ouputs:graphs/history.png)
+![Transaction History](Screenshots/history.png)
 
 ### 5. Model Performance Metrics
 Check the health status and validation metrics of the live ensemble model.
-![Model Performance](ouputs:graphs/model.png)
+![Model Performance](Screenshots/model.png)
 
 ---
 
