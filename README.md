@@ -1,6 +1,6 @@
-You can check my project demo here:
-https://fraud-detection-ten-neon.vercel.app
-
+You can check the project demo here:
+- **Frontend Dashboard (Vercel)**: https://fraud-detection-sigma-nine.vercel.app
+- **Backend API (Render)**: https://fraud-detection-9d6d.onrender.com
 
 
 
