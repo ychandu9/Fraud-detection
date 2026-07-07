@@ -21,15 +21,12 @@ Evaluate incoming transaction parameters, view explanation logs of safety indica
 Keep track of key performance indicators, fraud rate trends, and risk distributions.
 ![Analytics Dashboard](Screenshots/dashboard.png)
 
-### 3. Advanced Insights & Heatmaps
-Visualize peak fraud times, category-wise breakdowns, and payment method vulnerabilities.
-![Advanced Analytics](Screenshots/analytics.png)
 
-### 4. Historical Logs
+### 3. Historical Logs
 Explore the database of past analyzed transactions with full breakdown of ML vs. Rule-based scores.
 ![Transaction History](Screenshots/history.png)
 
-### 5. Model Performance Metrics
+### 4. Model Performance Metrics
 Check the health status and validation metrics of the live ensemble model.
 ![Model Performance](Screenshots/model.png)
 
