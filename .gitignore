@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# ML Model files (too large for GitHub)
+#backend/fraud_model.pkl
+#backend/scaler.pkl
+#backend/metrics.json
+backend/transaction_history.json
+backend/users.json
+backend/creditcard.csv
+
+# Environment
+backend/.env
+.env
+
+# React
+frontend/node_modules/
+frontend/build/

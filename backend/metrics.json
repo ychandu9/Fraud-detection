@@ -1,0 +1,1 @@
+{"accuracy": 99.8999, "auc_roc": 97.7762, "f1_fraud": 74.8899, "threshold": 0.8, "true_positives": 85, "false_positives": 44, "false_negatives": 13, "true_negatives": 56820, "last_trained": "2026-07-07T20:48:47.363005"}
